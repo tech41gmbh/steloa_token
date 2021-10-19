@@ -1,2 +1,2 @@
 # steloa_token
-Steloa Contract
+Steloa Smart Contract
